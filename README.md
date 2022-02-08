@@ -4,6 +4,8 @@
 
 Clone this repo, run `npm install` and `npm start` and it should be running on `http://localhost:3000/`.
 
+API reference is here: [api_doc.md](https://github.com/bonobos/product-catalog/blob/main/api_doc.md)
+
 ## Task 1 - Product List Page
 
 Populate the homepage with a list of product tiles by hitting `/products` endpoint. Product tiles should have name, image, and should be clickable into the product detail page.
