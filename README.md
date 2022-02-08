@@ -6,6 +6,11 @@ Clone this repo, run `npm install` and `npm start` and it should be running on `
 
 API reference is here: [api_doc.md](https://github.com/bonobos/product-catalog/blob/main/api_doc.md)
 
+We are using mock responses from My JSON Server:
+- https://my-json-server.typicode.com/bonobos/fake-product/products
+- https://my-json-server.typicode.com/bonobos/fake-product/products/[:id]
+- https://my-json-server.typicode.com/bonobos/fake-product/carts
+
 ## Task 1 - Product List Page
 
 Populate the homepage with a list of product tiles by hitting `/products` endpoint. Product tiles should have name, image, and should be clickable into the product detail page.
