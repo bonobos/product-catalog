@@ -15,14 +15,14 @@ We are using mock responses from My JSON Server:
 
 Populate the homepage with a list of product tiles by hitting `/products` endpoint. Product tiles should have name, image, and should be clickable into the product detail page.
 
-<img width="1168" alt="Screen Shot 2022-02-08 at 11 01 37 AM" src="https://user-images.githubusercontent.com/42350359/153030802-90dc3c8b-04ea-45e1-a00e-6953c07e4005.png">
+![Screen Shot 2023-02-22 at 5 49 01 PM](https://user-images.githubusercontent.com/42350359/220778289-f48f5a6b-a926-4050-ab4f-771c26ba21e5.png)
 
 ## Task 2 - Product Detail Page
 
 Populate individual product pages by hitting `/products/[:id]`. Product pages should have a gallery of images, title, price information, description, and a list of all the option type and value combinations for that product (i.e. Option Types are things like Color, Pant Waist, ), and Add to Cart button.
 
-<img width="1432" alt="Screen Shot 2022-02-08 at 11 02 05 AM" src="https://user-images.githubusercontent.com/42350359/153030945-71a20bad-2f3f-489f-a3e5-d0389a852119.png">
-<img width="1331" alt="Screen Shot 2022-02-08 at 11 01 52 AM" src="https://user-images.githubusercontent.com/42350359/153030949-c67fa68c-cb91-46ed-b625-f05828d6d939.png">
+![Screen Shot 2023-02-22 at 5 48 44 PM](https://user-images.githubusercontent.com/42350359/220778385-5f802298-d063-4504-a1de-282f2bab7e44.png)
+![Screen Shot 2023-02-22 at 5 48 55 PM](https://user-images.githubusercontent.com/42350359/220778382-92755ee9-6154-417d-88a8-5d9dd19d376c.png)
 
 ## Task 3 - Cart (Nice to Have)
 
